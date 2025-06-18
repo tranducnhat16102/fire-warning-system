@@ -65,7 +65,8 @@ Dự án này là một **hệ thống giám sát môi trường thời gian th�
     "led2": false
   }
 }
-🖥️ Cài đặt và sử dụng
+
+## 🖥️ Cài đặt và sử dụng
 1. Thư viện Arduino cần cài:
 DHT sensor library
 
