@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=D1 Pin=1-28
+Added Pin To Net: NetName=DV1 Pin=1-26
+Added Room: Name=fire_warning_system

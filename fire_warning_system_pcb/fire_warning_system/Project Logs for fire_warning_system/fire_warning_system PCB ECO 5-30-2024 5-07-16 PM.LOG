@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DV1 Pin=1-26
+Added Pin To Net: NetName=D1 Pin=1-8
+Added Member To Class: ClassName=fire_warning_system Member=Component 1 ESP32DEVKITV1
+Added Room: Name=fire_warning_system

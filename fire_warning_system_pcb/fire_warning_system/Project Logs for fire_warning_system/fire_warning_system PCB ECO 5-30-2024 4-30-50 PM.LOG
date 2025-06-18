@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Add Component: Footprint Not Found JP3-C1T
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C4-3
+Added Member To Class: ClassName=fire_warning_system Member=Component C5 H?ng ngo?i

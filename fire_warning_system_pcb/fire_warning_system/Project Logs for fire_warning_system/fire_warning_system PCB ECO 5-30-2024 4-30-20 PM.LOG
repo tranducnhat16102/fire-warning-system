@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=FIRE NewDesignator=C4
+Change Component Designator: OldDesignator=LCD NewDesignator=P3
+Change Component Designator: OldDesignator=MQ2 NewDesignator=C3
+Add Component: Footprint Not Found JP3-C1T
+Add Pin To Net: Unknown Pin: Pin C?-2
+Add Pin To Net: Unknown Pin: Pin C?-3
+Added Pin To Net: NetName=D1 Pin=1-28
+Added Net: Name=D1
+Add Class Member: Failed to add class member : Component C? H?ng ngo?i
+Added Room: Name=fire_warning_system
