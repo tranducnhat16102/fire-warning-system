@@ -66,34 +66,3 @@ Dự án này là một **hệ thống giám sát môi trường thời gian th�
   }
 }
 
-## 🖥️ Cài đặt và sử dụng
-1. Thư viện Arduino cần cài:
-DHT sensor library
-
-Firebase ESP32 by Mobizt
-
-LiquidCrystal_I2C (phiên bản phù hợp)
-
-2. Upload code
-Mở bằng Arduino IDE
-
-Chọn board ESP32 Dev Module
-
-Cắm ESP32 và upload
-
-🔔 Điều khiển từ Firebase
-Bạn có thể:
-
-Bật/Tắt LED từ xa bằng cách chỉnh control/led1 hoặc control/led2 trên Firebase Console.
-
-Giám sát dữ liệu thời gian thực (nhiệt độ, độ ẩm, gas, lửa, còi) qua đường dẫn sensors/.
-
-
-📖 Ghi chú thêm
-Buzzer dùng logic LOW để kêu, HIGH để tắt (đã xử lý trong code).
-
-Firebase được tự động kết nối lại khi mất WiFi (Firebase.reconnectWiFi(true)).
-
-LCD sẽ liên tục hiển thị nhiệt độ và độ ẩm.
-
-Bạn có thể tích hợp thêm với ứng dụng web hoặc Android để điều khiển tiện lợi hơn.
